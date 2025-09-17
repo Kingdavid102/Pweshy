@@ -1,4 +1,4 @@
-python-telegram-bot[job-queue]==13.7
-rembg==2.0.38
-Pillow==9.5.0
-gunicorn==20.1.0
+python-telegram-bot==20.7
+rembg==2.0.67
+Pillow==10.4.0
+gunicorn==21.2.0
